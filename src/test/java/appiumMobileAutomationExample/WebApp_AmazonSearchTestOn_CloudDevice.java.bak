@@ -122,7 +122,6 @@ public class WebApp_AmazonSearchTestOn_CloudDevice {
 		
 		Thread.sleep(4000);
 		driver.findElement(By.xpath("//input[@name='k']")).sendKeys("iphone 13" + Keys.ENTER);
-		log.info("enter value in serach field - iphone 13 " );
 		log.info("enter value in serach field and perform keyboard operation - ENTER " );
 		Thread.sleep(2000);
 		
