@@ -1,0 +1,49 @@
+2022-05-09 19:32:16,722 - BootCamp_Logger -INFO - ******************************
+2022-05-09 19:32:16,728 - BootCamp_Logger -INFO - Appium server started
+2022-05-09 19:32:17,233 - BootCamp_Logger -INFO - Messaging application launched
+2022-05-09 19:32:19,890 - BootCamp_Logger -INFO - click on Start chat button
+2022-05-09 19:32:28,911 - BootCamp_Logger -INFO - start scrolling searching element ........
+2022-05-09 19:32:40,193 - BootCamp_Logger -INFO - click on Airtel Broadband
+2022-05-09 19:32:40,194 - BootCamp_Logger -INFO - enter message ---- hi
+2022-05-09 19:32:41,112 - BootCamp_Logger -INFO - press Enter keys event
+2022-05-09 19:32:48,236 - BootCamp_Logger -INFO - clear the text from messaging field
+2022-05-09 19:32:49,725 - BootCamp_Logger -INFO - press Tab keys event
+2022-05-09 19:32:52,729 - BootCamp_Logger -INFO - clear the text from messaging field
+2022-05-09 19:32:52,915 - BootCamp_Logger -INFO - enter message ---- hi
+2022-05-09 19:33:05,205 - BootCamp_Logger -INFO - click on Send Message icon
+2022-05-09 19:38:27,586 - BootCamp_Logger -INFO - ******************************
+2022-05-09 19:38:27,626 - BootCamp_Logger -INFO - Appium server started
+2022-05-09 19:38:27,940 - BootCamp_Logger -INFO - Messaging application launched
+2022-05-09 19:38:30,274 - BootCamp_Logger -INFO - click on Start chat button
+2022-05-09 19:38:39,290 - BootCamp_Logger -INFO - start scrolling searching element ........
+2022-05-09 19:38:50,409 - BootCamp_Logger -INFO - click on Airtel Broadband
+2022-05-09 19:38:50,410 - BootCamp_Logger -INFO - enter message ---- hi
+2022-05-09 19:38:50,676 - BootCamp_Logger -INFO - press Enter keys event
+2022-05-09 19:38:53,314 - BootCamp_Logger -INFO - clear the text from messaging field
+2022-05-09 19:38:54,802 - BootCamp_Logger -INFO - press Tab keys event
+2022-05-09 19:38:57,811 - BootCamp_Logger -INFO - clear the text from messaging field
+2022-05-09 19:38:57,975 - BootCamp_Logger -INFO - enter message ---- hi
+2022-05-09 19:39:05,241 - BootCamp_Logger -INFO - click on Send Message icon
+2022-05-09 19:41:22,496 - TCS_Appium_Logger -INFO - ******************************
+2022-05-09 19:41:22,508 - TCS_Appium_Logger -INFO - Appium server started
+2022-05-09 19:41:23,040 - TCS_Appium_Logger -INFO - Messaging application launched
+2022-05-09 19:41:25,914 - TCS_Appium_Logger -INFO - click on Start chat button
+2022-05-09 19:41:34,938 - TCS_Appium_Logger -INFO - start scrolling searching element ........
+2022-05-09 19:41:46,177 - TCS_Appium_Logger -INFO - click on Airtel Broadband
+2022-05-09 19:41:46,181 - TCS_Appium_Logger -INFO - enter message ---- hi
+2022-05-09 19:41:47,098 - TCS_Appium_Logger -INFO - press Enter keys event
+2022-05-09 19:42:03,279 - TCS_Appium_Logger -INFO - clear the text from messaging field
+2022-05-09 19:42:05,415 - TCS_Appium_Logger -INFO - press Tab keys event
+2022-05-09 19:42:08,416 - TCS_Appium_Logger -INFO - clear the text from messaging field
+2022-05-09 19:42:08,587 - TCS_Appium_Logger -INFO - enter message ---- hi
+2022-05-09 19:42:17,357 - TCS_Appium_Logger -INFO - click on Send Message icon
+2022-05-09 20:52:01,373 - TCS_Appium_Logger_WebApplication -INFO - Amazon Web application launched successfully on device....., URL: https://www.amazon.in/
+2022-05-09 21:02:26,882 - TCS_Appium_Logger_WebApplication -INFO - Amazon Web application launched successfully on device....., URL: https://www.amazon.in/
+2022-05-09 21:02:31,609 - TCS_Appium_Logger_WebApplication -INFO - enter value in serach field and perform keyboard operation - ENTER 
+2022-05-09 21:02:33,611 - TCS_Appium_Logger_WebApplication -INFO - click on search results items
+2022-05-09 22:00:01,899 - TCS_Appium_Logger_WebApplication-CloudTest -INFO - Amazon Web application launched successfully on device....., URL: https://www.amazon.in/
+2022-05-09 22:00:07,529 - TCS_Appium_Logger_WebApplication-CloudTest -INFO - enter value in serach field and perform keyboard operation - ENTER 
+2022-05-09 22:00:09,535 - TCS_Appium_Logger_WebApplication-CloudTest -INFO - click on search results items
+2022-05-09 22:06:01,889 - TCS_Appium_Logger_WebApplication-CloudTest -INFO - Amazon Web application launched successfully on device....., URL: https://www.amazon.in/
+2022-05-09 22:06:07,365 - TCS_Appium_Logger_WebApplication-CloudTest -INFO - enter value in serach field and perform keyboard operation - ENTER 
+2022-05-09 22:06:09,367 - TCS_Appium_Logger_WebApplication-CloudTest -INFO - click on search results items

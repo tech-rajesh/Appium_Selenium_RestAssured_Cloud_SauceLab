@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite  name="Suite">
+
+
+
+
+
+
+	<test name="Sauce Test - FF">
+		<parameter name="browser" value="firefox" />
+		<parameter name="version" value="85.0" />
+		<parameter name="platform" value="windows 10" />
+
+		<classes>
+			<class name="sauceLabIntegrationExample.HRMLoginTest" />
+		</classes>
+	</test>
+
+
+
+	<test name="Sauce Test - chrome">
+		<parameter name="browser" value="chrome" />
+		<parameter name="version" value="100.0" />
+		<parameter name="platform" value="macOS 10.15" />
+
+		<classes>
+			<class name="sauceLabIntegrationExample.HRMLoginTest" />
+		</classes>
+	</test>
+
+
+
+	<!-- Test -->
+</suite> <!-- Suite -->
